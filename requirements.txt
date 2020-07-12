@@ -1,4 +1,3 @@
-ad3 @ file:///E:/Files/Downloads/ad3-2.2.1-cp38-cp38-win32.whl
 covid==2.3.0
 pydantic==1.6
 pyTelegramBotAPI==3.6.7
